@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dominique, but you can call me Nikki 😊
+### Hi there 👋 I'm Dominique, you can call me Nikki 😊
 
 I'm a Software Engineer from Philippines actively acquiring new skills and technologies. I'm currently learning and exploring the world of Web Development, UX and UI Design, prototyping and mockups. I enjoy low code to no-code web development like Webflow, but I'm also learning HTML, CSS, and Javascript. I have always been a hardworking person and passionate in everything that I do.
 
@@ -7,7 +7,7 @@ I'm a Software Engineer from Philippines actively acquiring new skills and techn
 * Oracle SQL, PostgreSQL
 * Microsoft Team Foundation Server, SVN
 * Linux and Windows Operating System
-* Supply Chain:Warehouse Management System
+* Supply Chain: Warehouse Management System
 
 ## Portfolio / Sample Works
 TBU 😁
